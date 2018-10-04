@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NavigationCollider
+  - GUI
+  - WalkingPoint
+  - InteractivePoint
+  - NavigationPoint
+  - Obstacle
+  - ItemInventory
+  - NPC
+  - MultipleChoiceSystem
+  - MultipleChoiceElement
+  - GameSlots
+  - Inventory
+  - Music
+  - SFX
+  - JournalEntry
+  - LanguageButton
+  - NavigationCentroid
+  - LittleFlags
+  - LittleFlagsPuzzle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Navigation
+  - Player
+  - InteractiveObjects
+  - ItemInventory
+  - NPCs
+  - PuzzleElements
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundScenery
+    uniqueID: 1142741523
+    locked: 0
+  - name: BackgroundInteractiveObjects
+    uniqueID: 1149372981
+    locked: 0
+  - name: Actors
+    uniqueID: 757919659
+    locked: 0
+  - name: FrontlineScenery
+    uniqueID: 2306940677
+    locked: 0
+  - name: Dialogs
+    uniqueID: 3818751215
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GUI
+    uniqueID: 324823067
+    locked: 0
